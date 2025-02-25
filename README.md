@@ -1,5 +1,3 @@
----
-
 ### **Desafio Shell Script**
 
 ```markdown
