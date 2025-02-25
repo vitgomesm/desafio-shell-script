@@ -1,11 +1,8 @@
-```markdown
 # **Desafio Shell Script - AWS EC2**
 
 Este repositório contém um script shell para automatizar a configuração de uma instância EC2 na AWS. O script instala o servidor web Apache, clona este repositório para servir um site HTML simples e envia uma solicitação POST para registrar o nome do usuário.
- ```
 
 ## Requisitos
-
 - Conta na AWS (Amazon Web Services).
 - Acesso ao serviço EC2 para criar uma instância (VM).
 - Conhecimento básico de shell script e Linux.
@@ -66,6 +63,6 @@ O script `script.sh` faz o seguinte:
 
 ## Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
+
 
 
