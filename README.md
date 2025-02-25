@@ -1,11 +1,8 @@
-### **Desafio Shell Script**
-
 ```markdown
-# Desafio Shell Script - AWS EC2
+# **Desafio Shell Script - AWS EC2**
 
 Este repositório contém um script shell para automatizar a configuração de uma instância EC2 na AWS. O script instala o servidor web Apache, clona este repositório para servir um site HTML simples e envia uma solicitação POST para registrar o nome do usuário.
-
----
+ ```
 
 ## Requisitos
 
@@ -33,7 +30,7 @@ Este repositório contém um script shell para automatizar a configuração de u
 
    # Executar o script
    /tmp/script.sh > /tmp/script.log 2>&1
-   ```
+  
 
 5. Configure o grupo de segurança para permitir tráfego HTTP (porta 80).
 6. Finalize a criação da instância.
